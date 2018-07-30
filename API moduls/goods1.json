@@ -1,0 +1,31 @@
+{
+    "good1": {
+    "description": "Note book #1",
+      "price": "1000 $",
+     "img": "/img/good1.jpg"
+    },
+
+    "good2": {
+    "description": "Note book #2",
+      "price": "1000 $",
+     "img": "/img/good2.jpg"
+    },
+
+    "good3": {
+    "description": "Note book #3",
+      "price": "1000 $",
+     "img": "/img/good3.jpg"
+    },
+
+    "good4": {
+    "description": "Note book #4",
+      "price": "1000 $",
+     "img": "/img/good4.jpg"
+    },
+
+    "good5": {
+    "description": "Note book #5",
+      "price": "1000 $",
+     "img": "/img/good5.jpg"
+    }
+}

@@ -1,0 +1,35 @@
+
+
+
+
+
+.block{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1000px;
+	height: 200px;
+   
+}
+
+.goods{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 500px;
+	height: 200px;
+    
+}
+
+
+#good1, #good2, #good3, #good4, #good5 {
+	width: 80px;
+	height: 50px;
+	border: groove;
+	background: blue;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
